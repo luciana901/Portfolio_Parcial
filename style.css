@@ -1,6 +1,37 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    background-image: url(https://static.vecteezy.com/system/resources/previews/006/140/728/non_2x/purple-blue-watercolor-background-pastel-mottled-border-texture-and-blurred-grunge-design-in-old-vintage-backgrounds-free-vector.jpg);
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  color: black;
+  padding: 20px;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+}
+.info {
+  margin-left: 8%;
+  margin-top: 15%;
+}
+.info h1 {
+  font-size: 57px;
+  font-weight: 600;
+}
+span {
+  font-family: "Satisfy", cursive;
+  color: skyblue;
+}
+.info p {
+  font-size: 30px;
+  margin-top: 20px;
+  max-width: #9e9e9e;
+}
+footer {
+  background-color: rgba(135, 215, 235, 0.308);
+  color: black;
+  padding: 20px;
+  text-align: center;
 }
