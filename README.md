@@ -4,6 +4,5 @@ Hacerca de este proyecto "Mi Portfolio"
 -Este proyecto contara con:
 *Pagina de Inicio
 *Sobre mi
-*Mis gustos
 *Habilidades
-\*Proyectos
+*Proyectos
