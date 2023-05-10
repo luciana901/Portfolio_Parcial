@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  color: black;
+  padding: 20px;
+}
+
+main {
+  color: skyblue;
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.infor h1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.infor h3 {
+  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+footer {
+  background-color: rgba(135, 215, 235, 0.308);
+  color: black;
+  padding: 20px;
+  text-align: center;
+}
